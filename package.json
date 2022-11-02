@@ -78,7 +78,7 @@
         "jsdom": "*",
         "knights-canvas": "*",
         "lodash": "*",
-        "lowdb": "*",
+        "lowdb": "^3.0.0",
         "mime-types": "*",
         "moment-timezone": "*",
         "mongoose": "*",
